@@ -1,0 +1,15 @@
+b	0	0	d	i	s	c	o	n	n	e	c	t	0	0
+a	0	0	0	0	0	0	0	p	r	o	t	e	c	t
+n	0	0	0	v	s	0	0	0	0	0	0	x	0	0
+d	0	0	0	i	u	0	0	0	0	0	0	t	0	0
+w	0	0	r	e	p	l	a	c	e	0	0	u	0	0
+i	0	0	0	w	e	0	0	0	0	0	0	r	0	b
+d	0	0	0	p	r	o	t	o	t	y	p	e	0	r
+t	0	0	0	o	v	0	0	0	0	0	0	0	0	o
+h	0	0	0	i	i	0	0	0	0	0	0	0	0	a
+0	0	c	o	n	s	e	c	u	t	i	v	e	0	d
+0	0	0	0	t	o	0	0	0	0	0	0	0	0	c
+0	0	0	0	0	r	0	0	0	0	0	0	0	0	a
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	s
+0	0	0	0	0	0	0	a	b	s	t	r	a	c	t
+0	0	0	0	0	0	0	0	0	0	0	0	0	0	0
