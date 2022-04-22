@@ -24,7 +24,7 @@ The second player tries to guess another word by placing a letter. The player ge
 is guessed. The player who completes a word gets 10 points. When all the words are completed on the board, the game ends and the player who has the highest score
 wins the game. 
 
-In the project, lots of data structures used. **Single Link List (SLL)** and **Multi Linked List (MLL)** for sorting the words alphabetically. And **Double Linked List (DLL)** for sorting and storing the high score table.
+In the project, lots of data structures were used. **Single Link List (SLL)** and **Multi Linked List (MLL)** for sorting the words alphabetically. And **Double Linked List (DLL)** for sorting and storing the high score table.
 
 ## Console View
 ![alt text](https://github.com/enes-sahinn/Word-Puzzle-Game/blob/master/console_view.PNG)
